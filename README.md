@@ -22,4 +22,4 @@ This repository contains the source code for the 42 C++ modules.
 
 * CPP 0   <img width="197" alt="Screen Shot 2023-04-24 at 1 46 50 PM" src="https://user-images.githubusercontent.com/94134595/233988126-9cde2d45-279a-4ec4-8536-5787dd165375.png">
 
-* CPP 9   <not yet graded>
+* CPP 9   \<not yet graded\>
