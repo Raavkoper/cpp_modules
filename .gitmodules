@@ -1,0 +1,39 @@
+[submodule "cpp0"]
+	path = cpp0
+	url = https://github.com/Raavkoper/cpp0.git
+
+[submodule "cpp1"]
+	path = cpp1
+	url = https://github.com/Raavkoper/cpp1.git
+
+[submodule "cpp2"]
+	path = cpp2
+	url = https://github.com/Raavkoper/cpp2.git
+
+[submodule "cpp3"]
+	path = cpp3
+	url = https://github.com/Raavkoper/cpp3.git
+
+[submodule "cpp4"]
+	path = cpp4
+	url = https://github.com/Raavkoper/cpp4.git
+
+[submodule "cpp5"]
+	path = cpp5
+	url = https://github.com/Raavkoper/cpp5.git
+
+[submodule "cpp6"]
+	path = cpp6
+	url = https://github.com/Raavkoper/cpp6.git
+
+[submodule "cpp7"]
+	path = cpp7
+	url = https://github.com/Raavkoper/cpp7.git
+
+[submodule "cpp8"]
+	path = cpp8
+	url = https://github.com/Raavkoper/cpp8.git
+	
+[submodule "cpp9"]
+	path = cpp9
+	url = https://github.com/Raavkoper/cpp9.git
